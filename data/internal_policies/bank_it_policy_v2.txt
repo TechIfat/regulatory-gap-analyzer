@@ -1,0 +1,9 @@
+SHIFTAI BANK LTD - INTERNAL IT & AUTOMATION POLICY v2.1
+
+Article 1: System Accountability
+1.1 The Chief Technology Officer (CTO) holds ultimate responsibility for all software deployments, including Machine Learning and AI agents.
+1.2 The CTO will review all automated system performance metrics during the Quarterly Board Meeting.
+
+Article 2: Deployment Standards
+2.1 All AI models must pass a rigorous security penetration test and fairness evaluation annually before the start of the fiscal year. Once passed, the model is cleared for production for 12 months.
+2.2 AI agents are permitted to route transactions autonomously, provided the client has sufficient funds in their ledger.

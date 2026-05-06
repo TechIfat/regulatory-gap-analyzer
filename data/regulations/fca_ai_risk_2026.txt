@@ -1,0 +1,10 @@
+FINANCIAL CONDUCT AUTHORITY (FCA) 
+POLICY STATEMENT: PS26/4 - AI and Algorithmic Risk Management
+
+Section 1: Accountability
+1.1 All financial institutions deploying Agentic AI or Large Language Models must designate a specific Senior Management Function (SMF) holding the SMF24 (Chief Operations) or SMF4 (Chief Risk) title to be personally accountable for AI decisions.
+1.2 The accountable SMF must review AI deployment logs on a bi-weekly basis.
+
+Section 2: Testing and Drift
+2.1 Static annual testing of AI models is no longer permitted. Firms must implement Continuous Automated Evaluation (CAE) pipelines to detect semantic drift and hallucinations in real-time.
+2.2 If an AI model executes a financial transaction, a Human-in-the-Loop (HITL) physical breakpoint must be enforced for transactions over £10,000.
